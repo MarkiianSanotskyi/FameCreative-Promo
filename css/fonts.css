@@ -1,0 +1,42 @@
+
+
+
+@font-face {
+    font-family: 'mint_spirit_no2regular';
+    src: url('../fonts/mint-spirit.no2-regular-webfont.eot');
+    src: url('../fonts/mint-spirit.no2-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mint-spirit.no2-regular-webfont.woff2') format('woff2'),
+         url('../fonts/mint-spirit.no2-regular-webfont.woff') format('woff'),
+         url('../fonts/mint-spirit.no2-regular-webfont.ttf') format('truetype'),
+         url('../fonts/mint-spirit.no2-regular-webfont.svg#mint_spirit_no2regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'mint_spirit_no2bold';
+    src: url('../fonts/mint-spirit.no2-bold-webfont.eot');
+    src: url('../fonts/mint-spirit.no2-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mint-spirit.no2-bold-webfont.woff2') format('woff2'),
+         url('../fonts/mint-spirit.no2-bold-webfont.woff') format('woff'),
+         url('../fonts/mint-spirit.no2-bold-webfont.ttf') format('truetype'),
+         url('../fonts/mint-spirit.no2-bold-webfont.svg#mint_spirit_no2bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'mint_spirit_no2italic';
+    src: url('../fonts/mint-spirit.no2-italic-webfont.eot');
+    src: url('../fonts/mint-spirit.no2-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mint-spirit.no2-italic-webfont.woff2') format('woff2'),
+         url('../fonts/mint-spirit.no2-italic-webfont.woff') format('woff'),
+         url('../fonts/mint-spirit.no2-italic-webfont.ttf') format('truetype'),
+         url('../fonts/mint-spirit.no2-italic-webfont.svg#mint_spirit_no2italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
